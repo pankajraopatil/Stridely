@@ -10,5 +10,6 @@ namespace MySampleConsoleApp
     {
         public int EmpId { get; set; }
         public string EmpName { get; set; }
+        public string Destination { get; set; }
     }
 }
